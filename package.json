@@ -1,13 +1,13 @@
 {
-  "name": "premium-nobundle",
+  "name": "premium-simplemonthly",
   "version": "0.0.42",
   "fullName": "Good template",
   "joshfire": {
     
     "premium": true,
-    "subscription":{
-      "monthly":{
-        "price": {
+    "prices":{
+      "*":{
+        "monthly":{
           "eur": 399,
           "usd": 533
         }
